@@ -6,8 +6,4 @@
     <ul>
         <li>Nosotros</li>
         <li>Registrate</li>
-        <li>Iniciar sesion</li>
-        
-</ul>
-</nav>
-</body>
+        <li>Iniciar sesion</li><
