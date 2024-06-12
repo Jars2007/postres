@@ -7,6 +7,7 @@
         <li>Nosotros</li>
         <li>Registrate</li>
         <li>Iniciar sesion</li>
+        <
 </ul>
 </nav>
 </body>
